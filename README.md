@@ -1,2 +1,2 @@
 # 75Days_Challenge
-Start Day - 18/09/2023
+Start Date - 18/09/2023
