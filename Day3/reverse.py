@@ -1,5 +1,6 @@
 n = int(input("enter it !!"))
 reversednum=0
+a=n
 
 while n!=0:
     remainder= n%10
@@ -8,4 +9,8 @@ while n!=0:
 
 print(reversednum)
 
-print(2//5)
+if reversednum==a:
+    print("Palindrome Number")
+else:
+    print("Not a Palindrome Number")
+# print(2//5)
